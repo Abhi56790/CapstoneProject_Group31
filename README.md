@@ -228,6 +228,7 @@ The public corpora differ in age, collection method, writing style and label def
 Only exact duplicates and exact text overlap were checked. Near duplicates, repeated templates and quoted material may remain.
 The behavioural cues are based on selected keyword dictionaries. They can miss implied meaning and may match ordinary language that is not persuasive.
 The prototype truncates emails that exceed the MiniLM input limit. Information appearing later in a long message may therefore be excluded.
+
 Ethical and Privacy Considerations
 The project uses publicly available secondary datasets. The email data should only be handled for legitimate academic research and in accordance with the original dataset licence.
 Users should not paste private, confidential or personally identifying emails into a publicly shared prototype.
